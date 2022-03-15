@@ -1,5 +1,5 @@
 <h1 align="center">
-  🔁 <br> Drum-Kit
+  🥁 <br> Drum-Kit
 </h1>
 
 <h4 align="center">
